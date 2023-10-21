@@ -209,7 +209,7 @@
 
     @include desktop {
       position: absolute;
-      top: calc(100vh - 133px);
+      top: calc(50vw - 55px);
       display: flex;
       align-items: center;
       font-weight: $weight-bold;
