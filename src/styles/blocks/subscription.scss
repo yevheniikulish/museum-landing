@@ -83,8 +83,8 @@
     border: 0;
     transition: (
       color $transition,
-      background-color $transition,
-      border: $transition
+      border-color $transition,
+      background-color $transition
     );
 
     @include header {
